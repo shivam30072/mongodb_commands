@@ -16,3 +16,5 @@
 ![](https://github.com/shivam30072/mongodb_commands/blob/main/mongo8.png?raw=true)
 9. 9th command
 ![](https://github.com/shivam30072/mongodb_commands/blob/main/mongo9.png?raw=true)
+10. 10th command
+![](https://github.com/shivam30072/mongodb_commands/blob/main/mongo10.png?raw=true)
